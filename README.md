@@ -8,7 +8,7 @@ This package will have all the required resources related to the application of 
 
 ## Causal theory
 
-[1] Pearl, Judea (2009-09-14). Causality. Cambridge University Press. ISBN 9781139643986
+[1] Pearl, Judea (2009-09-14). Causality. Cambridge University Press. ISBN 9781139643986 <br>
 [2] Elements of Causal Inference, Foundations and Learning Algorithms By Jonas Peters, Dominik Janzing and Bernhard Schölkopf
 
 ## Causal-NLP
